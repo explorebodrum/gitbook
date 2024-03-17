@@ -1,3 +1,3 @@
-Gümüşlük
-Bodrum Gümüşlük Neyi Meşhur?
-Gumusluk bodrum turkey map
+Gümüşlük /  Bodrum/Muğla, Türkiye
+latitude:  37.053183
+longitude:  27.244809
