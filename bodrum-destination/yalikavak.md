@@ -1,3 +1,3 @@
-Yalıkavak
-Bodrum Yalıkavak Neyi Meşhur?
-Yalikavak bodrum turkey things to do
+Yalıkavak /  Bodrum/Muğla, Türkiye
+latitude:  37.105956000000006
+longitude:  27.294204
