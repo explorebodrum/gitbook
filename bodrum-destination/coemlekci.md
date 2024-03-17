@@ -1,3 +1,2 @@
-# ÇÖMLEKÇİ
+Çömlekçi
 
-ÇÖMLEKÇİ
