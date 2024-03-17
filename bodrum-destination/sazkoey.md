@@ -1,3 +1,3 @@
-Sazköy
-What is Bodrum Turkey known for?
-Is Bodrum safe
+Sazköy /  Bodrum/Muğla, Türkiye
+latitude:  37.097719
+longitude:  27.610017
