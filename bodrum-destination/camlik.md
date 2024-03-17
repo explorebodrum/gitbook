@@ -1,3 +1,3 @@
-Çamlık
-
-Camlik bodrum turkey map
+Bodrum /  Bodrum/Muğla, Türkiye
+latitude:  37.034407
+longitude:  27.430539999999997
