@@ -1,3 +1,3 @@
-Kumköy
-What is so special about Bodrum?
-Kumkoy bodrum turkey map
+Kumköy /  Bodrum/Muğla, Türkiye
+latitude:  37.0842451
+longitude:  27.5822579
