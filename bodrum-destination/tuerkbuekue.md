@@ -1,3 +1,3 @@
-Göltürkbükü
-Türkbükü adı nereden geliyor?
-Turkbuku bodrum turkey things to do
+Göltürkbükü /  Bodrum/Muğla, Türkiye
+latitude:  37.118713
+longitude:  27.385218
