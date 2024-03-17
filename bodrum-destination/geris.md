@@ -1,3 +1,3 @@
-Geriş Mahallesi
-What is so special about Bodrum?
-Geris bodrum turkey map
+Geriş /  Bodrum/Muğla, Türkiye
+latitude:  37.0883393
+longitude:  27.276429399999998
