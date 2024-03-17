@@ -1,3 +1,3 @@
-
-Is it worth visiting Bodrum Turkey?
-Golkoy bodrum turkey restaurants
+Gölköy /  Bodrum/Muğla, Türkiye
+latitude:  37.083262
+longitude:  27.365449
