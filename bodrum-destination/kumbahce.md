@@ -1,8 +1,3 @@
-# KUMBAHÇE
+Kumbahçe
 
-{% embed url="https://www.youtube.com/watch?v=DqRrW-oVJiE" %}
-
-
-
-Bodrum Paşatarlası Beach and Gundogan Bay Drone Promotion Video
-
+Kumbahce bodrum turkey map
