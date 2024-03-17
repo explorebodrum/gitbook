@@ -1,3 +1,3 @@
-Bodrum Yalı Çiftlik Halk Plajı
-Yalıçiftlik denizi nasıl?
-Ciftlik bodrum turkey reviews
+Çiftlik /  Bodrum/Muğla, Türkiye
+latitude:  37.016530599999996
+longitude:  27.5642595
