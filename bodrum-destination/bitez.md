@@ -1,3 +1,3 @@
-Bitez
-What is Bitez like in Turkey?
-Things to do in Bitez
+Bitez /  Bodrum/Muğla, Türkiye
+latitude:  37.033333
+longitude:  27.383333
