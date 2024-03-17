@@ -1,3 +1,3 @@
-
-Is Bodrum a good holiday destination?
-Carsi bodrum turkey map
+Çarşı /  Bodrum/Muğla, Türkiye
+latitude:  37.0355643
+longitude:  27.4336137
