@@ -1,2 +1,3 @@
-# 🧚‍♀️ YOKUŞBAŞI
+Yokuşbaşı
 
+Yokusbasi bodrum turkey map
